@@ -1,0 +1,4 @@
+flask
+flask-cors
+faster-whisper
+pyngrok
